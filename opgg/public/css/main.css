@@ -1,0 +1,16 @@
+div.jumbotron.jumbotron-fluid{
+    width: 100%;
+    background-color: #000;
+}
+
+div.header_bg{
+    background: linear-gradient(to top, rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url("../images/bg.jpg");
+    background-size: cover;
+    background-position: 100% 12%;
+    background-repeat: no-repeat;
+    border-radius: 0%;
+}
+
+span.ranked_info {
+    font-weight: 600;
+}
